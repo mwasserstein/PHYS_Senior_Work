@@ -1,0 +1,71 @@
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+
+Variable: array_snow
+Type: float
+Total Size: 196 bytes
+            49 values
+Number of Dimensions: 1
+Dimensions and sizes:	[49]
+Coordinates: 
+Number Of Attributes: 7
+  coordinates :	XLONG XLAT XTIME
+  stagger :	
+  units :	mm
+  description :	ACCUMULATED TOTAL GRID SCALE SNOW AND ICE
+  MemoryOrder :	XY 
+  FieldType :	104
+  _FillValue :	9.96921e+36
+(0)	 0
+(1)	0.006302545
+(2)	0.2870176
+(3)	0.9028525
+(4)	1.41572
+(5)	1.934277
+(6)	2.509551
+(7)	3.351873
+(8)	5.44506
+(9)	8.135511
+(10)	11.32499
+(11)	14.39643
+(12)	17.0808
+(13)	19.8876
+(14)	22.50011
+(15)	25.35688
+(16)	28.11343
+(17)	29.85598
+(18)	30.92294
+(19)	31.9773
+(20)	33.46282
+(21)	33.77
+(22)	34.0134
+(23)	34.20158
+(24)	34.41574
+(25)	34.59402
+(26)	34.75452
+(27)	34.94996
+(28)	35.1892
+(29)	35.35957
+(30)	35.44993
+(31)	35.48146
+(32)	35.50612
+(33)	35.52653
+(34)	35.54776
+(35)	35.58093
+(36)	35.61111
+(37)	35.63657
+(38)	35.68274
+(39)	35.75586
+(40)	35.79502
+(41)	35.84124
+(42)	35.88035
+(43)	35.94033
+(44)	35.99643
+(45)	36.0148
+(46)	36.01682
+(47)	36.01682
+(48)	36.01682
